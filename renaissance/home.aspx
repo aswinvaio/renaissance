@@ -1,17 +1,12 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="home.aspx.cs" Inherits="renaissance.home" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/main.Master" AutoEventWireup="true" CodeBehind="home.aspx.cs" Inherits="renaissance.home" %>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title>renaissance 2018/</title>
-</head>
-<body>
-    <form id="home" runat="server">
-        <div>
-            <h1><b>renaissance</b></h1>
-            <asp:Image ImageUrl="~/Images/logo-old.jpg" ID="imgLogo" runat="server" />
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="container">
+        <div class="starter-template">
+            <div class="container" style="padding-left: 0px">
+                <asp:Image ImageUrl="~/Images/logo-old.jpg" ID="imgLogo" runat="server" />
+                <h1>coming soon..</h1>
+            </div>
         </div>
-    </form>
-</body>
-</html>
+    </div>
+</asp:Content>
