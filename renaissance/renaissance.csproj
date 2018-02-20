@@ -66,10 +66,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="favicon.ico" />
     <Content Include="packages.config" />
     <Content Include="main.Master" />
-    <None Include="Properties\PublishProfiles\cm-renaissance - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\cm-renaissance - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\cm-malwares - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\cm-malwares - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
