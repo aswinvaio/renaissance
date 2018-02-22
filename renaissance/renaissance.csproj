@@ -154,7 +154,7 @@
   <ItemGroup>
     <Content Include="home.aspx" />
     <Content Include="Images\logo-old.jpg" />
-    <Content Include="renaissance.html" />
+    <Content Include="home.html" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
