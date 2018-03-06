@@ -155,6 +155,7 @@
     <Content Include="home.aspx" />
     <Content Include="Images\logo-old.jpg" />
     <Content Include="home.html" />
+    <Content Include="Sounds\bgm.mp3" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
